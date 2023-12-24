@@ -8,10 +8,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ![](./images/desktop__screenshot.png)
 
-**Mobile/Tablet Screenshot**
-
-![](./images/tablet__screenshot.png)
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -22,8 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://fm-stats-003.vercel.app/m)
 
 ### What I learned
 
@@ -73,7 +68,7 @@ Dilhan Boca
 
 Frontend Mentor Profile: 
 
-Gmail: dboca93@gmail.com
-
 - Frontend Mentor - [@dboca93](https://www.frontendmentor.io/profile/dboca93
 )
+
+Gmail: dboca93@gmail.com
