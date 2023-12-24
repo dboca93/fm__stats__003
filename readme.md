@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Vercel](https://fm-stats-003.vercel.app/m)
+- Live Site URL: [Vercel](https://fm-stats-003.vercel.app/)
 
 ### What I learned
 
