@@ -1,0 +1,66 @@
+@media only screen and (max-width: 52.5em) {
+    main {
+      padding: 0rem 5vw 0rem 5vw;
+    }
+  
+    .hero__section {
+      grid-template-columns: minmax(15.625rem, 1fr);
+      margin: 0rem;
+      grid-template-rows: 21.9375rem auto;
+      grid-template-areas:
+        "picture__area"
+        "article__area";
+      overflow: hidden;
+  
+      article {
+        gap: 0.125rem;
+        padding: 0.3125rem 1.5625rem;
+        grid-template-rows: 6.5625rem 7.1875rem 16.5625rem;
+  
+        h2,
+        p {
+          text-align: center;
+        }
+  
+        .list__container {
+          display: flex;
+          flex-direction: column;
+  
+          .sub__container {
+            h3 {
+              align-self: center;
+              text-align: center;
+            }
+  
+            .beta {
+              margin-left: 2px;
+            }
+  
+            .beta {
+              margin-right: 5px;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  @media only screen and (max-width: 27.5em) {
+    .hero__section {
+      grid-template-rows: 18.5625rem 34.0625rem;
+  
+      article {
+        gap: 0.9375rem;
+      }
+  
+      article p {
+        max-width: 90%;
+        margin: 0 auto;
+      }
+    }
+  
+    main {
+      padding: 0.9375rem 0.4688rem;
+    }
+  }
+  
